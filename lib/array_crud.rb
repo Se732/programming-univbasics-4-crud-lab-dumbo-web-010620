@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 christmas_songs = ["silver bells","Deck the hall","jingle bell rock"]
-christmas_sonds[1] = "love to sing"
+christmas_sonds[1] = "wow"
 end
