@@ -17,7 +17,7 @@ nba_teams.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-luxury_cars = ["BMW m4","Lexus LFA","Audi RS5","Nissan GTR","Toyota camry"] 
+luxury_cars = ["BMW m4","Lexus LFA","Audi RS5","Nissan GTR","Toyota camry"]
 luxury_cars.pop
 end
 
