@@ -12,7 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-
+nba_teams = ["thunder","warriors","rockets"]
+nba_teams.shift("celtics")
 end
 
 def remove_element_from_end_of_array(array)
